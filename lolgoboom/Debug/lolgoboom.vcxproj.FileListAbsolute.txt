@@ -1,0 +1,3 @@
+C:\Users\paulg\source\repos\lolgoboom\lolgoboom\Debug\lolgoboom.vcxprojAssemblyReference.cache
+C:\Users\paulg\source\repos\lolgoboom\lolgoboom\Debug\lolgoboom.lolgoboom.resources
+C:\Users\paulg\source\repos\lolgoboom\lolgoboom\Debug\lolgoboom.vcxproj.GenerateResource.cache
